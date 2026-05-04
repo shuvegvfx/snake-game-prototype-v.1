@@ -13,7 +13,7 @@ var score = 0;
 var scoreEl = document.querySelector("h3") // score text html tag\div
 var gameOverTextEl = document.querySelector("h2") // Game Over text html tag\div
 var gameOverTrigger = true // used to stop game over sound only!
-var speed = 500; // in miliseconds for setinterval
+var speed = 250; // in miliseconds for setinterval
 
 
 // sound effects variables
